@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/EMPLOYEE-SERVICES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JOB-OFFERS-SERVICES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SIRH-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-getway" vcs="Git" />
+  </component>
+</project>
